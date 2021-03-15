@@ -19,6 +19,12 @@ public class Bank {
 
         int bal = currentBalance;
 
+
+
+
+
+
+
         String send = Integer.toString(bal);
         byte b[] = send.getBytes();
 

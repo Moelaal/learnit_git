@@ -7,7 +7,17 @@ public class Author {
     String firstName;
     String lastName;
 
+
+
+
+
+
+
+
+
+
     public Author(int id,String firstName,String lastName){
+        //this is constructor
         this.id = id;
         this.firstName = firstName;
         this.lastName = lastName;
