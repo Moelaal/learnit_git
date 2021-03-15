@@ -13,8 +13,6 @@ public class Present {
         sweets  = new Sweet[DEFAULT_CAPACITY];
     }
 
-    
-
     public void addSweet(Sweet sweet){
         if (sweet == null){
             return;
